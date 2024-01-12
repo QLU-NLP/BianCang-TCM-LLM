@@ -114,7 +114,7 @@ python web_demo.py
 
 ## 团队
 
-本项目由齐鲁工业大学（山东省科学院）自然语言处理与认知计算团队维护。
+本项目由齐鲁工业大学（山东省科学院）自然语言处理与认知计算团队、山东省中医药大学附属医院临床研究中心共同开发维护。
 
 欢迎您提出宝贵建议！联系邮箱： [nlp@qlu.edu.cn](mailto:nlp@qlu.edu.cn)
 
@@ -131,7 +131,7 @@ python web_demo.py
 ```bash
 @misc{,
       title={BianCang: A Traditional Chinese Medicine Large Language Model}, 
-      author={Sibo Wei, Wenpeng Lu*, Jianlei Wang},
+      author={Sibo Wei, Wenpeng Lu*, Jianlei Wang, Yi-Fei Wang, Weiyu Zhang, Shibing Liang, Hongjiao Guan, Long Zhao},
       year={2024},
       publisher = {GitHub},
       journal = {GitHub repository},
