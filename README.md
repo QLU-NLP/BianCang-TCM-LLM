@@ -146,5 +146,5 @@ python web_demo.py
 </p>
 
 <p align="center">
-  <img src="pics/gzh.jpg" width="350px"/>
+  <img src="pics/gzh.jpg" width="240px"/>
 </p>
