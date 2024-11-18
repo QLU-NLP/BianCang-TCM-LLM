@@ -1,4 +1,8 @@
 # 扁仓中医大模型
+> [!IMPORTANT]
+>
+> 该仓库已弃用，请前往扁仓的新仓库[Github](https://github.com/QLU-NLP/BianCang)
+
 
 扁仓中医大模型(BianCang-TCM-LLM)开源仓库。
 
